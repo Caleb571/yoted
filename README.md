@@ -1,0 +1,2 @@
+# yoted
+class activity
